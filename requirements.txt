@@ -1,0 +1,9 @@
+numpy
+opencv-python
+pytesseract
+matplotlib
+Pillow
+imutils
+pyspellchecker
+
+# pip install -r requirements.txt
