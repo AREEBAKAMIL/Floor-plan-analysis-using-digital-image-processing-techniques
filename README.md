@@ -40,7 +40,7 @@ The above be found under the following notebooks:
 1. final > Effective Floor Area.ipynb
 2. final > Reduced_covered_Area.ipynb
 3. final > Room Boundary detection.ipynb
-4. Room detection.ipynb
+4. final > Room detection.ipynb
 
 Secondly, this project focuses on detecting the number of
 different types of rooms on the floor plan. Floor plans contain text labels representing the
@@ -56,7 +56,7 @@ extracted by inspecting floor plans and require the most amount of time when ins
 manually.
 
 The above be found under the following notebooks:
-1. Text Detection and Recognition.ipynb
+1. final > Text Detection and Recognition.ipynb
 
 # 2. Analysis of strengths
 In this project, an extensive amount of time was spent on research. The previous
