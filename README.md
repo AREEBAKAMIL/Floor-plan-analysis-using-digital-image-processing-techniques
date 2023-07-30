@@ -1,5 +1,5 @@
 # Floor-plan-analysis-using-digital-image-processing-techniques
-This project is about using computer vision - specifically Digital Image Processing techniques to analyze architectural floor plans and thereby, extract the area and a number of rooms. This would allow for a significant reduction in the time taken to manually inspect floor plans to calculate property valuations. For a quick overview of the project, please see the pdf i have created:
+This project is about using computer vision - specifically Digital Image Processing Techniques - to analyze architectural floor plans and thereby, extract the area and the number of rooms. This would allow for a significant reduction in the time taken to manually inspect floor plans to then calculate property valuations. For a quick overview of the project, please see the PDF I have created:
 
 https://drive.google.com/file/d/1BZ1nAIDWlA-1B7EH2m3GAC1XtZCYIjzv/view?usp=sharing
 
